@@ -1,0 +1,5 @@
+D:\VisualC Projects\CostPerWageCalculator\CostPerWageCalculator\bin\Debug\CostPerWageCalculator.exe.config
+D:\VisualC Projects\CostPerWageCalculator\CostPerWageCalculator\bin\Debug\CostPerWageCalculator.exe
+D:\VisualC Projects\CostPerWageCalculator\CostPerWageCalculator\bin\Debug\CostPerWageCalculator.pdb
+D:\VisualC Projects\CostPerWageCalculator\CostPerWageCalculator\obj\Debug\CostPerWageCalculator.exe
+D:\VisualC Projects\CostPerWageCalculator\CostPerWageCalculator\obj\Debug\CostPerWageCalculator.pdb
